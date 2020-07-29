@@ -1,0 +1,20 @@
+body {
+    background-color: wheat;
+}
+#Title{
+    text-align: center;
+    font-size: 40pt;
+    background-color: teal;
+    color: white;
+}
+
+h2{
+    text-indent: 50pt;
+    text-shadow: 2px 2px snow;
+}
+#text{
+    text-indent: 30pt;
+}
+img {
+    position: relative;left: 100px;
+}
