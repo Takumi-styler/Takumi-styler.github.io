@@ -26,7 +26,7 @@ h2{
     color: red;
 }
 #quiz{
-    background-image: url("/FinalProject/img/makimono.png");
+    background-image: url("img/makimono.png");
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
